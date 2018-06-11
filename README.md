@@ -14,3 +14,6 @@ Keras
 $python web_cam.py
 
 webカメラをPCにつないだ状態で起動
+
+## 参考HP
+http://aidiary.hatenablog.com/entry/20170110/1484057655
